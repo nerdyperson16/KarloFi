@@ -1,6 +1,6 @@
 print("K-Tech Application Development Company")
 print("Kar-LoFi Main Program - Python")
-print("Version 1.2")
+print("Version 1.3")
 
 print("Importing Statements")
 from gpiozero import MotionSensor
